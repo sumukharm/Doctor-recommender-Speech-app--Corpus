@@ -1,5 +1,5 @@
 # Doctor-recommender-Speech-app--Corpus
-Quality voice samples recorded from people, with variation in gender,age, accent and place.
+Quality voice samples recorded from people with variation in gender,age, accent and place.
 
 The goal we are working towards in this project is to enable speech technology in recomending good doctors. People are usually not aware of the best doctors in their city (especially if they are new to it). Thus, to prevent them being denied of the best medical services, we are designing an app that allows people to speak out their health issues. This speech is processed to segment out the keyword that is enough to decide on the class of doctors who could address the issue. For example- if "gum" is contained in person's speech, it is picked and the best dentist is recommended. After getting treated from that doctor, the person rates his service. This rating factor updates doctors's ranking in the backend database, and thus helps in recommending for future cases. 
 
